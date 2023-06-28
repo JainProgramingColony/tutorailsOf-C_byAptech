@@ -2,7 +2,7 @@
 #include <conio.h>
 int main()
 {
-    printf("Hello Pragyesh");
+    printf("Hello fristprogramer");
     printf("\nWelcome in Our C tutorial.....");
     return 0;
 }
