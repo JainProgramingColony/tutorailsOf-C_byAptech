@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, Welcome on my C Programming Language tutorials Repository</h3>
 
-- ⚡ This Repository is based on C tutorials Code by AptechLearning
+- ⚡ This Repository is based on C tutorials Code by AptechLearning.
 
 - 🌱 I Will Upload all Codes Soon.
 
