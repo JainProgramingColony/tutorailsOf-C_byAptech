@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, Welcome on my C Programming Language tutorials Repository</h3>
+<h3 align="center">Hi 👋, Welcome on my C Programming tutorials Repository</h3>
 
 - ⚡ This Repository is based on C tutorials which I learn from AptechLearning.
 
